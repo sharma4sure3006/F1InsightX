@@ -12,3 +12,7 @@ F1InsightX is a dynamic and data-driven project aimed at enhancing your understa
 * Upcoming Events and Session Times: Stay up to date with the Formula 1 calendar, displaying upcoming events and session times for each race weekend.
 
 * Driver and Constructor Standings: Keep track of the latest standings in both driver and constructor categories, giving you a clear picture of the ongoing championship battles.
+
+## Getting Started
+*Clone the Repository*: Start by cloning this repository to your local machine using the following command:
+git clone https://github.com/sharma4sure3006/F1InsightX.git
