@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 import streamlit as st
 from fastf1.ergast import Ergast
 
-from F1InsightX.data_management import DataHandler, Plotter
-from F1InsightX.utils import set_page_config
+from data_management import DataHandler, Plotter
+from utils import set_page_config
 
 
 logger = logging.getLogger(__name__)
