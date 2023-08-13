@@ -24,5 +24,12 @@ pip install -r requirements.txt
 ```
 3. Run the Application: Launch the F1InsightX application using Streamlit:
 ```
-streamlit run main.py
+streamlit run Home.py
 ```
+## Contributing
+Contributions to F1InsightX are welcome! If you find issues or have ideas for improvements, please open an issue or submit a pull request.
+
+## Acknowledgments
+F1InsightX utilizes technologies such as Streamlit and FastF1, etc. libraries to provide an immersive and informative experience for Formula 1 enthusiasts.
+
+Get ready to elevate your Formula 1 experience with F1InsightX. Dive into the data, explore the strategies, and enjoy the thrill of the race like never before! 🏎️📊🏁
