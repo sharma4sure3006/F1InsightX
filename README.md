@@ -14,5 +14,7 @@ F1InsightX is a dynamic and data-driven project aimed at enhancing your understa
 * Driver and Constructor Standings: Keep track of the latest standings in both driver and constructor categories, giving you a clear picture of the ongoing championship battles.
 
 ## Getting Started
-*Clone the Repository*: Start by cloning this repository to your local machine using the following command:
+Clone the Repository: Start by cloning this repository to your local machine using the following command:
+'''
 git clone https://github.com/sharma4sure3006/F1InsightX.git
+'''
