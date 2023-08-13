@@ -5,8 +5,8 @@ import streamlit as st
 import pandas as pd
 import fastf1 as ff1
 
-from F1InsightX.data_management import DataHandler, Plotter
-from F1InsightX.utils import get_driver_abbreviation, set_page_config
+from data_management import DataHandler, Plotter
+from utils import get_driver_abbreviation, set_page_config
 
 
 logger = logging.getLogger(__name__)
