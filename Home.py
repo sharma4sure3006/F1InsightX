@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Main analyzef1 script
-"""
+
 
 import logging
 from pathlib import Path
