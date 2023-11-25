@@ -25,7 +25,7 @@ def main() -> None:
     # st.image(f"{Path().resolve()}/images/background/backgroundcrop.jpeg")
     # col1.image("C:/Users/Alok Sharma/Downloads/pexels-alejandro-barrón-96715.jpg")
 
-    # col2.markdown("For all the **F1** nerds.")
+    
     st.markdown("Get ready to experience Formula 1 like never before with **F1InsightX!**")
     st.divider()
 
